@@ -19,7 +19,7 @@ Huge thanks to [_EthicalChaos_](https://twitter.com/_EthicalChaos_) for helping 
 
 ## Credit
 
-The original research was done by [Jonas Lyk](https://twitter.com/jonasLyk), the screenshot showing the technique can be found [here]()
+The original research was done by [Jonas Lyk](https://twitter.com/jonasLyk), the screenshot showing the technique can be found [here](https://pbs.twimg.com/media/Er2W8NFXIAAWZ5a?format=png&name=4096x4096)
 
 The first PoC in C was created by [@LloydLabs](https://twitter.com/LloydLabs/): [delete-self-poc](https://github.com/LloydLabs/delete-self-poc)
 
